@@ -1,0 +1,101 @@
+Order_ID,Product,Category,Quantity,Price,Revenue,City,Date
+O001,Notebook,Stationery,2,500,1000,Colombo,2026-10-01
+O002,Pen,Stationery,5,100,500,Kandy,2026-10-02
+O003,Mouse,Electronics,1,2500,2500,Jaffna,2026-10-03
+O004,Pen,Stationery,1,100,100,Jaffna,2026-09-16
+O005,Keyboard,Electronics,3,4500,13500,Colombo,2026-10-05
+O006,Pen,Stationery,7,100,700,Colombo,2026-09-02
+O007,Pen,Stationery,4,100,400,Kandy,2026-10-03
+O008,Desk Lamp,Household,1,3800,3800,Negombo,2026-09-13
+O009,Backpack,Accessories,7,5500,38500,Kandy,2026-09-29
+O010,Desk Lamp,Household,5,3800,19000,Colombo,2026-09-11
+O011,Lunch Box,Household,6,1800,10800,Jaffna,2026-09-10
+O012,Keyboard,Electronics,6,4500,27000,Colombo,2026-09-06
+O013,Lunch Box,Household,2,1800,3600,Jaffna,2026-09-23
+O014,Desk Lamp,Household,5,3800,19000,Colombo,2026-09-30
+O015,Backpack,Accessories,2,5500,11000,Galle,2026-09-06
+O016,Backpack,Accessories,5,5500,27500,Negombo,2026-09-24
+O017,Desk Lamp,Household,4,3800,15200,Colombo,2026-09-03
+O018,Keyboard,Electronics,5,4500,22500,Colombo,2026-09-15
+O019,Pen,Stationery,7,100,700,Jaffna,2026-09-30
+O020,Water Bottle,Household,3,1200,3600,Jaffna,2026-09-23
+O021,Keyboard,Electronics,5,4500,22500,Colombo,2026-09-11
+O022,Backpack,Accessories,4,5500,22000,Kandy,2026-09-30
+O023,Lunch Box,Household,5,1800,9000,Negombo,2026-09-15
+O024,Water Bottle,Household,1,1200,1200,Kandy,2026-09-03
+O025,Water Bottle,Household,7,1200,8400,Jaffna,2026-09-05
+O026,Keyboard,Electronics,6,4500,27000,Kandy,2026-10-02
+O027,Lunch Box,Household,8,1800,14400,Kandy,2026-09-17
+O028,Mouse,Electronics,4,2500,10000,Negombo,2026-10-05
+O029,Headphones,Electronics,7,6500,45500,Negombo,2026-09-26
+O030,Water Bottle,Household,4,1200,4800,Kandy,2026-10-03
+O031,T-Shirt,Clothing,2,2200,4400,Colombo,2026-09-08
+O032,Mouse,Electronics,3,2500,7500,Galle,2026-09-05
+O033,Lunch Box,Household,7,1800,12600,Negombo,2026-09-30
+O034,Backpack,Accessories,5,5500,27500,Negombo,2026-09-01
+O035,Pen,Stationery,9,100,900,Jaffna,2026-09-22
+O036,Pen,Stationery,5,100,500,Galle,2026-09-11
+O037,T-Shirt,Clothing,1,2200,2200,Jaffna,2026-10-03
+O038,Mouse,Electronics,9,2500,22500,Colombo,2026-09-20
+O039,Backpack,Accessories,4,5500,22000,Kandy,2026-09-24
+O040,Mouse,Electronics,9,2500,22500,Negombo,2026-09-01
+O041,Desk Lamp,Household,6,3800,22800,Galle,2026-09-02
+O042,Pen,Stationery,6,100,600,Jaffna,2026-09-16
+O043,Notebook,Stationery,4,500,2000,Negombo,2026-09-06
+O044,Pen,Stationery,8,100,800,Colombo,2026-10-05
+O045,Mouse,Electronics,3,2500,7500,Galle,2026-10-06
+O046,Mouse,Electronics,5,2500,12500,Negombo,2026-09-28
+O047,Keyboard,Electronics,9,4500,40500,Kandy,2026-09-20
+O048,Lunch Box,Household,6,1800,10800,Galle,2026-10-04
+O049,T-Shirt,Clothing,2,2200,4400,Kandy,2026-09-15
+O050,Pen,Stationery,6,100,600,Colombo,2026-10-06
+O051,Keyboard,Electronics,4,4500,18000,Colombo,2026-09-05
+O052,Notebook,Stationery,4,500,2000,Colombo,2026-09-03
+O053,Water Bottle,Household,2,1200,2400,Negombo,2026-09-16
+O054,Headphones,Electronics,8,6500,52000,Kandy,2026-10-05
+O055,Mouse,Electronics,8,2500,20000,Kandy,2026-10-01
+O056,Lunch Box,Household,4,1800,7200,Colombo,2026-09-07
+O057,Lunch Box,Household,6,1800,10800,Galle,2026-09-27
+O058,T-Shirt,Clothing,1,2200,2200,Colombo,2026-09-04
+O059,Lunch Box,Household,6,1800,10800,Colombo,2026-09-16
+O060,Keyboard,Electronics,4,4500,18000,Negombo,2026-09-29
+O061,Mouse,Electronics,7,2500,17500,Kandy,2026-09-18
+O062,T-Shirt,Clothing,4,2200,8800,Colombo,2026-09-29
+O063,Backpack,Accessories,2,5500,11000,Colombo,2026-10-05
+O064,Notebook,Stationery,2,500,1000,Kandy,2026-09-11
+O065,Lunch Box,Household,8,1800,14400,Galle,2026-09-14
+O066,Lunch Box,Household,1,1800,1800,Kandy,2026-09-25
+O067,Notebook,Stationery,7,500,3500,Jaffna,2026-09-30
+O068,Headphones,Electronics,7,6500,45500,Negombo,2026-10-02
+O069,Mouse,Electronics,4,2500,10000,Jaffna,2026-09-14
+O070,Notebook,Stationery,9,500,4500,Colombo,2026-09-21
+O071,Notebook,Stationery,1,500,500,Negombo,2026-10-01
+O072,Backpack,Accessories,9,5500,49500,Kandy,2026-09-04
+O073,Backpack,Accessories,2,5500,11000,Kandy,2026-09-05
+O074,Desk Lamp,Household,2,3800,7600,Kandy,2026-09-26
+O075,Pen,Stationery,4,100,400,Negombo,2026-09-03
+O076,Desk Lamp,Household,2,3800,7600,Galle,2026-10-07
+O077,Backpack,Accessories,6,5500,33000,Jaffna,2026-09-14
+O078,Water Bottle,Household,4,1200,4800,Jaffna,2026-09-26
+O079,Mouse,Electronics,5,2500,12500,Galle,2026-09-21
+O080,Pen,Stationery,1,100,100,Galle,2026-10-07
+O081,Pen,Stationery,2,100,200,Negombo,2026-09-14
+O082,Backpack,Accessories,5,5500,27500,Kandy,2026-09-23
+O083,Pen,Stationery,4,100,400,Jaffna,2026-09-19
+O084,Mouse,Electronics,8,2500,20000,Negombo,2026-09-20
+O085,Desk Lamp,Household,9,3800,34200,Colombo,2026-10-06
+O086,Headphones,Electronics,2,6500,13000,Kandy,2026-09-17
+O087,Pen,Stationery,2,100,200,Negombo,2026-09-10
+O088,Headphones,Electronics,5,6500,32500,Negombo,2026-09-14
+O089,Water Bottle,Household,4,1200,4800,Jaffna,2026-10-03
+O090,T-Shirt,Clothing,5,2200,11000,Colombo,2026-09-06
+O091,Lunch Box,Household,5,1800,9000,Colombo,2026-09-01
+O092,Water Bottle,Household,3,1200,3600,Jaffna,2026-09-11
+O093,T-Shirt,Clothing,9,2200,19800,Galle,2026-10-06
+O094,Notebook,Stationery,2,500,1000,Colombo,2026-09-10
+O095,Backpack,Accessories,1,5500,5500,Jaffna,2026-10-06
+O096,Mouse,Electronics,7,2500,17500,Kandy,2026-09-03
+O097,Headphones,Electronics,6,6500,39000,Colombo,2026-09-23
+O098,Keyboard,Electronics,4,4500,18000,Colombo,2026-09-23
+O099,Backpack,Accessories,7,5500,38500,Negombo,2026-09-10
+O100,Keyboard,Electronics,3,4500,13500,Kandy,2026-09-27
